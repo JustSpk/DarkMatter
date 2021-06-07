@@ -8,4 +8,4 @@ A cold, dark & frosty theme.
 * Hammock for making the original theme.
 * Devilbro for giving me permission to use his BlurpleRecolor theme. This saved a lot of time.
 
-by SPK demo Discord Theme project
+by SPK demo Discord Theme project!!!
